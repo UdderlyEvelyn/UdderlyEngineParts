@@ -1,0 +1,14 @@
+module Base
+{   
+    item Magazine_UdderlyEngineParts
+    {
+       Weight=0.1,
+       Type=Literature,
+       DisplayName=Milking Your Engine For All It's Worth,
+       Icon=Magazine_UdderlyEngineParts,
+       TeachedRecipes=Craft Spare Engine Parts,
+       ReplaceOnUse=Magazine_UdderlyEngineParts,
+       StaticModel=Magazine,
+       WorldStaticModel=MagazineGround,
+    }
+}

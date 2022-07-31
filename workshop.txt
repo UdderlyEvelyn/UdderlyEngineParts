@@ -1,0 +1,6 @@
+version=1
+id=2842061194
+title=Udderly Engine Parts
+description=Craftable engine parts. Hardly the first mod to do this, but balanced in a way that's kinda inbetween the other offerings in a niche I felt was not available yet.
+tags=Build 41;Balance;Multiplayer;Realistic
+visibility=public

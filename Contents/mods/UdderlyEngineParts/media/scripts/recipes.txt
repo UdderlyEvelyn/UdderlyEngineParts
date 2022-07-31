@@ -1,0 +1,18 @@
+module Base
+{
+    recipe Craft Spare Engine Parts
+    {
+        ScrapMetal=4,
+        Screws=16,
+        BlowTorch=5,
+        keep WeldingMask,
+
+        SkillRequired:MetalWelding=7,
+        Sound:BlowTorch,
+    	NeedToBeLearn:true,
+        Result:EngineParts,
+        Time:350.0,
+        Category:Welding,
+        OnGiveXP:Recipe.OnGiveXP.MetalWelding10,
+    }
+}
